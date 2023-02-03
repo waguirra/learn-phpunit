@@ -6,9 +6,8 @@
     },
     "license": "MIT",
     "autoload": {
-        "psr-0": {
-            "": "src/",
-            "MyFramework\\": "app/"
+        "psr-4": {
+            "Src\\": "src/"
         }
     },
     "authors": [
